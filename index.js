@@ -1,5 +1,15 @@
-// arrays, objetos
 
-let metas = ["mayk", "alô"]
+let meta = {
+    value: 'ler um livro todo mês',
+    checked: true,
+}
 
-console.log(metas[1] + " " + metas[0])
+let metas = [
+    meta,
+    {
+        value: "caminhar 20 minutos todos os dias",
+        checked: false
+    }
+]
+
+console.log(metas[0].value)
