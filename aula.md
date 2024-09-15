@@ -53,3 +53,8 @@
   - [x] Criar, passar argumento
   - [x] Executar
   - [x] Arrow funtion / named function
+
+  # Estrutura de repetição
+
+- [x] While
+  
