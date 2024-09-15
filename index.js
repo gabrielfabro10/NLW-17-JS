@@ -1,7 +1,5 @@
-// hello world
+// arrays, objetos
 
-let mensagem = 'olá mundo!'
-console.log(mensagem)
-console.log(mensagem)
-console.log(mensagem)
-console.log(mensagem)
+let metas = ["mayk", "alô"]
+
+console.log(metas[1] + " " + metas[0])

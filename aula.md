@@ -34,3 +34,16 @@
   ## Operadores
 
   Operador de atribuição de valor
+  Operador de concatenação
+
+  ## Estrutura de dados:
+
+  ### Arrays:
+
+  Uma lista que contém qualquer tipo de dado
+
+  ### Objetos:
+
+  Atributos e métodos
+  Criação e manipulação de objetos
+  Acesso a propriedades de objetos
